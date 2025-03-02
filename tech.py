@@ -60,7 +60,6 @@ sequence_buffer = []  # Stores detected gestures
 sequence_index = 0    # Tracks progress in target sequence
 buffer_size = 30      # Buffer size
 
-# Function to detect gestures based on hand landmarks
 
 # Main Loop
 running = True
