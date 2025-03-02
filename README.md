@@ -29,3 +29,6 @@ Use Move #1: Fist in one hand to flat palm of other hand, side of hands facing c
 Use Move #2: Form a finger triangle using thumb and index fingers
 Use Move #3: Kamehameha, palms facing camera (curve fingers, wrists on top of each other, open hands)
 Use Move #4: Hand butterfly, cross left + right hand, back of hand facing camera
+
+
+Here is a video of a demo game my collegaue (Caroline Swanton) created:https://youtu.be/iQ0R6mnqGFc
