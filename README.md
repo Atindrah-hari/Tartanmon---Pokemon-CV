@@ -1,3 +1,6 @@
+Note: 
+This was a team project. My contributions were towards the CV detection and general hand motion and gesture detection. Most of my code is found in func.py and tech.py. 
+Here is a video of a sampel game my collegaue (Caroline Swanton) created: https://youtu.be/iQ0R6mnqGFc
 
 File to run: 
 main.py
@@ -31,4 +34,4 @@ Use Move #3: Kamehameha, palms facing camera (curve fingers, wrists on top of ea
 Use Move #4: Hand butterfly, cross left + right hand, back of hand facing camera
 
 
-Here is a video of a demo game my collegaue (Caroline Swanton) created:https://youtu.be/iQ0R6mnqGFc
+
