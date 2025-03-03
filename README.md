@@ -1,5 +1,5 @@
 Note: 
-This was a team project. My contributions were towards the CV detection and general hand motion and gesture detection. Most of my code is found in func.py and tech.py. 
+This was a team project. My contributions were towards the image processing and general hand motion and gesture detection. Most of my code is found in func.py and tech.py. 
 Here is a video of a sample game my collegaue (Caroline Swanton) created: https://youtu.be/iQ0R6mnqGFc
 
 File to run: 
